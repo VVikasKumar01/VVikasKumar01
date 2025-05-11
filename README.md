@@ -56,7 +56,7 @@ When I'm not coding, you can find me: <br /></p>
 </ul>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/gU25raLP4pUu4/source.gif" alt="Gaming Fun GIF" width="60%" />
+  <img src="https://github.com/VVikasKumar01/VVikasKumar01/blob/main/Footer.gif?raw=true" width="60%" />
 </div>
 
 <h3 align="center">Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate. 😊</h3>
