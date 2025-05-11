@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD4cByJbRxME2tW/giphy.gif" alt="Gaming Environment GIF" width="100%" />
+  <img src="https://github.com/VVikasKumar01/VVikasKumar01/blob/main/Header_gif.gif?raw=true" width="100%" />
 </div>
 
 <h1 align="center">Hi, I'm Vikas Kumar! 👋</h1>
