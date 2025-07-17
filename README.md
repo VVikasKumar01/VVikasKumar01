@@ -26,13 +26,13 @@ Welcome to my GitHub profile! I'm a passionate developer and technology enthusia
 
 <h2 align="center">🤝 Let's Get Connected</h2>
 <p align="center">
-  <a href="www.linkedin.com/in/vikas-kumar-velugubantla-a92b12285?raw=true" target="_blank">
+  <a href="www.linkedin.com/in/vikas-kumar-velugubantla" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/@Vikas_Kumar_91" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="mailto:v.vikaskumar2005@gmail.com" target="_blank">
+  <a href="mailto:v.vikaskumar2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
