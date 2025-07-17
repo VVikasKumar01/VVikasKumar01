@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate developer and technology enthusia
 
 <h2 align="center">🤝 Let's Get Connected</h2>
 <p align="center">
-  <a href="www.linkedin.com/in/vikas-kumar-velugubantla-a92b12285" target="_blank">
+  <a href="www.linkedin.com/in/vikas-kumar-velugubantla-a92b12285?raw=true" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/@Vikas_Kumar_91" target="_blank">
