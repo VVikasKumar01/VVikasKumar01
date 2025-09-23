@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Vikas Kumar! 👋</h1>
 
-🎓 I am currently pursuing my <strong>Undergraduate in Computer Science and Engineering</strong>.  
+🎓 I am pursuing my <strong>Undergraduate in Computer Science and Engineering</strong>.  
 Welcome to my GitHub profile! I'm a passionate developer and technology enthusiast who loves solving problems, learning new skills, and contributing to the open-source community.
 
 <h2 align="center">🛠️ Tool Kit</h2>
