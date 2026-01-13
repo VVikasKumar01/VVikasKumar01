@@ -2,7 +2,7 @@
   <img src="https://github.com/VVikasKumar01/VVikasKumar01/blob/main/Header_gif.gif?raw=true" width="100%" />
 </div>
 
-<h1 align="center">Hi, I'm Vikas Kumar! 👋</h1>
+<h1 align="center">Hi, I'm Vikas Kumar Velugubantla! 👋</h1>
 
 🎓 I am pursuing my <strong>Undergraduate in Computer Science and Engineering</strong>.  
 Welcome to my GitHub profile! I'm a passionate developer and technology enthusiast who loves solving problems, learning new skills, and contributing to the open-source community.
