@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate developer and technology enthusia
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VVikasKumar01)](https://git.io/streak-stats)
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VVikasKumar01&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=VVikasKumar01&show_icons=true&theme=radical" alt="GitHub Streak" />
