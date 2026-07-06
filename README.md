@@ -24,11 +24,8 @@ Welcome to my GitHub profile! I'm a passionate developer and technology enthusia
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VVikasKumar01&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=VVikasKumar01&show_icons=true&theme=radical" alt="GitHub Streak" />
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VVikasKumar01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="50%" />
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VVikasKumar01&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
-
 </div>
 
 <h2 align="center">🤝 Let's Get Connected</h2>
